@@ -11,6 +11,8 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
+![desafio2](https://user-images.githubusercontent.com/61559973/134839265-97e7f5f5-5563-47eb-a25e-645fe97ee58a.jpg)
+
 ## 🎲 Para rodar o desafio
 
 ```bash
@@ -27,4 +29,4 @@ yarn server
 - TypeScript
 
 ## 👨‍💻 Sobre
-Este desafio faz parte do curso Ignite da Rocketseat, sendo o primeiro da trilha ReactJS
+Este desafio faz parte do curso Ignite da Rocketseat, sendo o segundo da trilha ReactJS
